@@ -1,6 +1,12 @@
 # <p align="center"> Hello! I'm Gabriel 👋 </p>
+### <p align="center"> Passionate about Technology </p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gabrierf)
+
+<a href="https://linkedin.com/in/gabrierf" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
+
+
 
 
 <!--
