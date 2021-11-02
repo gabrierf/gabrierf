@@ -1,5 +1,8 @@
 # <p align="center"> Hello! I'm Gabriel 👋 </p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gabrierf)
+
+
 <!--
 **gabrierf/gabrierf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
