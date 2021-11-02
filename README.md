@@ -1,7 +1,7 @@
 # <p align="center"> Hello! I'm Gabriel 👋 </p>
 ### <p align="center"> Passionate about Technology </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gabrierf) <sup>'v0.08'</sup>
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gabrierf)](#) <sup>'v0.09'</sup>
 
 ### Connect with me:
 <a href="https://linkedin.com/in/gabrierf" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://instagram.com/gabrierf" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> <a href="https://indelevel.tech" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-sites--v1.png"/></a>
